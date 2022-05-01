@@ -1,0 +1,27 @@
+div{
+    text-align: center;
+}
+
+input{
+ height: 25px;
+ border-radius: 15px;
+}
+
+.container{
+    background-color: bisque;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 1.5px solid  blueviolet;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+a:hover{
+
+    background-color: brown;
+    color: white;
+
+}
